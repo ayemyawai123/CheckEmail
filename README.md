@@ -1,6 +1,6 @@
 ## Laravel Sponsors
--Step 1 copy .env_examples
--Step 2 composer install
+-Step 1 copy .env_examples.
+-Step 2 composer install.
 
 
 
