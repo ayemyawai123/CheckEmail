@@ -1,6 +1,7 @@
 ## Laravel Sponsors
 - [Step 1 copy .env_examples and rename .env].
 - [Step 2 composer install].
+- [Step 3 php artisan key:generate].
 
 
 
